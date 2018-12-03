@@ -1,0 +1,10 @@
+#motto {
+  font-weight: bold;
+  text-align: center;
+  color: orange;
+}
+
+.jumbotron {
+  background-image: url(Images/us.jpg);
+  background-size: cover;
+}
