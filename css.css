@@ -8,3 +8,9 @@
   background-image: url(Images/us.jpg);
   background-size: cover;
 }
+
+.title {
+  text-align: center;
+  font-family: sans-serif;
+  color: orange;
+}
